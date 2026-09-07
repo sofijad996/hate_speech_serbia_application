@@ -1,0 +1,7 @@
+div[data-testid="stHeading"] h1 {
+  text-align: center;
+}
+
+div[data-testid="stCaptionContainer"] {
+  text-align: center;
+}
